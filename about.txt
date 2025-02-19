@@ -1,1 +1,2 @@
-ama a developer
+am a developer
+student
